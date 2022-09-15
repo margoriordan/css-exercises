@@ -1,0 +1,18 @@
+.odd {
+background-color: #ffc0cb;
+font-family: "Veranda", "DejaVu Sans", sans-serif;
+}
+
+#threesix {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#twofour {
+    font-size: 24px;
+}
+
+.even {
+    font-weight: bold;
+    background-color: #adff2f;
+}
